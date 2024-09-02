@@ -30,12 +30,16 @@ a{
     text-decoration: none;
     color: white;
 }
+a:hover{
+    background: rgb(30, 179, 47);
+    padding: 20px;
+}
 header{
     display: flex;
     height: 30vh;
     justify-content: center;
     align-items: center;
-    background: rgb(186, 134, 38);
+    background: rgb(103, 197, 231);
 }
 .main-container{
     display: flex;
